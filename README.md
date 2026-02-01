@@ -26,7 +26,7 @@ https://velumani260591.github.io/styleprotfolio/
 
 **Name:** Velumani V  
 **Role:** Java Full Stack Developer  
-**Experience:** 1 Year  
+
 
 I am a passionate Java Full Stack Developer focused on building responsive and modern web applications.
 
